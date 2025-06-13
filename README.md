@@ -4,7 +4,6 @@
 
 
 #### *Using Python + the Pytrends API, I analyzed global interest for:*
-
 - ### **🔹 Machine Learning**
 - ### **🔹 Data Science**
 - ### **🔹 Cloud Computing**
@@ -17,7 +16,6 @@
 
 
 #### *📊 Highlights:*
-
 - ### **✅ ML & Data Science show consistent upward trends**
 - ### **✅ Cloud Computing sees region-specific spikes**
 - ### **✅ Plotly brings data to life with interactive visuals**
