@@ -29,7 +29,7 @@
 
 ### 💡 What I Learned
 
-*This wasn’t just about trends — it was about transforming raw data into real-world insights using practical tools. From scraping Google Trends to visualizing patterns, it sharpened my skills in data storytelling, Python automation, and interactive dashboards.*
+*This wasn’t just about trends - it was about transforming raw data into real-world insights using practical tools. From scraping Google Trends to visualizing patterns, it sharpened my skills in data storytelling, Python automation, and interactive dashboards.*
 
 ---
 
