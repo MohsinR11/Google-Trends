@@ -1,29 +1,36 @@
-# **📈 Google Trends + Python = Real-World Insights**
+# 📈 Google Trends + Python = Real-World Insights
 
-## **✨ What’s really trending in tech? I decided to find out!**
+## ✨ What’s *really* trending in tech? I decided to find out!
 
+---
 
-#### *Using Python + the Pytrends API, I analyzed global interest for:*
-- ### **🔹 Machine Learning**
-- ### **🔹 Data Science**
-- ### **🔹 Cloud Computing**
-- ### **🔹 Data Engineering**
-- ### **🔹 Data Analytics**
+### 🔍 Using Python + the Pytrends API, I explored global interest for:
+- **Machine Learning**
+- **Data Science**
+- **Cloud Computing**
+- **Data Engineering**
+- **Data Analytics**
 
-#### *🚀 Tools & Libraries*
+---
 
-### **pandas | pytrends | seaborn | plotly | matplotlib**
+### 🧰 Tools & Libraries
 
+`Python` | `pandas` | `pytrends` | `seaborn` | `plotly` | `matplotlib` | `Jupyter Notebook`
 
-#### *📊 Highlights:*
-- ### **✅ ML & Data Science show consistent upward trends**
-- ### **✅ Cloud Computing sees region-specific spikes**
-- ### **✅ Plotly brings data to life with interactive visuals**
+---
 
+### 📊 Highlights
 
-#### *🧠 What I learned:*
+- ✅ *Machine Learning* & *Data Science* show steady global growth.
+- ✅ *Cloud Computing* sees sharp region-specific spikes.
+- ✅ *Plotly* brings the trends to life with interactive visuals.
 
-### **This project wasn’t just about trends—it was about transforming raw data into insights using real-world tools. A perfect blend of data storytelling, curiosity, and technical skills.**
+---
 
+### 💡 What I Learned
 
-### **👨‍💻 Built using Jupyter Notebook | 100% Python**
+*This wasn’t just about trends — it was about transforming raw data into real-world insights using practical tools. From scraping Google Trends to visualizing patterns, it sharpened my skills in data storytelling, Python automation, and interactive dashboards.*
+
+---
+
+**👨‍💻 100% Python | Built in Jupyter Notebook**
